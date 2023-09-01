@@ -3,12 +3,14 @@
 
 <h1 align="center">🛸 Welcome to my coding space 🛸</h1>
 
+<h3 align="center">I'm Fischer a.k.a. Rokk! </h3>
 <p align="center">
         <img src= "assets/6272395.gif">
 </p>
+
 
 ### About me.
  - 🚢 Graduated in Logistics transitioning to programmer.
  - 🖥️ Cadet of the 42Porto academy.
  -  ⚙️ Passionate about solving problems and discovering the mechanics behind the world.
- 
+
